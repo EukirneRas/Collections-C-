@@ -1,0 +1,16 @@
+C:\Users\Hader\OneDrive\Documentos\C#\Collections\Fila\bin\Debug\net5.0\Fila.exe
+C:\Users\Hader\OneDrive\Documentos\C#\Collections\Fila\bin\Debug\net5.0\Fila.deps.json
+C:\Users\Hader\OneDrive\Documentos\C#\Collections\Fila\bin\Debug\net5.0\Fila.runtimeconfig.json
+C:\Users\Hader\OneDrive\Documentos\C#\Collections\Fila\bin\Debug\net5.0\Fila.runtimeconfig.dev.json
+C:\Users\Hader\OneDrive\Documentos\C#\Collections\Fila\bin\Debug\net5.0\Fila.dll
+C:\Users\Hader\OneDrive\Documentos\C#\Collections\Fila\bin\Debug\net5.0\Fila.pdb
+C:\Users\Hader\OneDrive\Documentos\C#\Collections\Fila\obj\Debug\net5.0\Fila.csproj.AssemblyReference.cache
+C:\Users\Hader\OneDrive\Documentos\C#\Collections\Fila\obj\Debug\net5.0\Fila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hader\OneDrive\Documentos\C#\Collections\Fila\obj\Debug\net5.0\Fila.AssemblyInfoInputs.cache
+C:\Users\Hader\OneDrive\Documentos\C#\Collections\Fila\obj\Debug\net5.0\Fila.AssemblyInfo.cs
+C:\Users\Hader\OneDrive\Documentos\C#\Collections\Fila\obj\Debug\net5.0\Fila.csproj.CoreCompileInputs.cache
+C:\Users\Hader\OneDrive\Documentos\C#\Collections\Fila\obj\Debug\net5.0\Fila.dll
+C:\Users\Hader\OneDrive\Documentos\C#\Collections\Fila\obj\Debug\net5.0\refint\Fila.dll
+C:\Users\Hader\OneDrive\Documentos\C#\Collections\Fila\obj\Debug\net5.0\Fila.pdb
+C:\Users\Hader\OneDrive\Documentos\C#\Collections\Fila\obj\Debug\net5.0\Fila.genruntimeconfig.cache
+C:\Users\Hader\OneDrive\Documentos\C#\Collections\Fila\obj\Debug\net5.0\ref\Fila.dll
